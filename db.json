@@ -3,7 +3,9 @@
       {
         "id": 1,
         "employeeUPN": "test_upn_1",
-        "fullName":"Deler T.Abdolqader",
+        "firstName":"Deler",
+        "secondName":"T.",
+        "thirdName":"Abdolqader",
         "birthDate":"1990/04/04",
         "gender":"Male",
         "avatar":"https://i.pravatar.cc/500?img=3"
@@ -11,7 +13,9 @@
       {
         "id": 2,
         "employeeUPN": "test_upn_2",
-        "fullName":"Shahla Mohammad Abdollah",
+        "firstName":"Shahla",
+        "secondName":"Mohammad",
+        "thirdName":"Abdollah",
         "birthDate":"1993/06/02",
         "gender":"Female",
         "avatar":"https://i.pravatar.cc/500?img=1"
@@ -19,7 +23,9 @@
       {
         "id": 3,
         "employeeUPN": "test_upn_3",
-        "fullName":"Farzad Davood Amin",
+        "firstName":"Farzad",
+        "secondName":"Davood",
+        "thirdName":"Amin",
         "birthDate":"1989/08/17",
         "gender":"Male",
         "avatar":"https://i.pravatar.cc/500?img=7"
