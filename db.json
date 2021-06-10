@@ -3,32 +3,32 @@
     {
       "id": 1,
       "employeeUPN": "test_upn_1",
-      "firstName": "Deler",
-      "secondName": "T.",
-      "thirdName": "Abdolqader",
+      "firstName": "دلێر",
+      "secondName": "محمد",
+      "thirdName": "عبدللە",
       "birthDate": "1990/04/04",
       "gender": "Male",
-      "avatar": "https://i.pravatar.cc/500?img=3"
+      "avatar": "https://i.pravatar.cc/500"
     },
     {
       "id": 2,
       "employeeUPN": "test_upn_2",
-      "firstName": "Shahla",
-      "secondName": "Mohammad",
-      "thirdName": "Abdollah",
+      "firstName": "شهلا",
+      "secondName": "عبداللە",
+      "thirdName": "کەریم",
       "birthDate": "1993/06/02",
       "gender": "Female",
-      "avatar": "https://i.pravatar.cc/500?img=1"
+      "avatar": "https://i.pravatar.cc/500"
     },
     {
       "id": 3,
       "employeeUPN": "test_upn_3",
-      "firstName": "Farzad",
-      "secondName": "Davood",
-      "thirdName": "Amin",
+      "firstName": "رێباز",
+      "secondName": "قادر",
+      "thirdName": "کەریم",
       "birthDate": "1989/08/17",
       "gender": "Male",
-      "avatar": "https://i.pravatar.cc/500?img=7"
+      "avatar": "https://i.pravatar.cc/500"
     }
   ],
   "permanent": {
