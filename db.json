@@ -31,7 +31,7 @@
       "avatar": "https://i.pravatar.cc/500?img=7"
     }
   ],
-  "Permanent": {
+  "permanent": {
     "Schema": [
       {
         "Title": "UPN",
