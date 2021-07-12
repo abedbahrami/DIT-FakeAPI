@@ -1,13 +1,13 @@
 {
   "search": [
     {
-      "id": 1,
+      "id": 2020123400010,
       "employeeUPN": "test_upn_1",
       "firstName": "دلێر",
       "secondName": "محمد",
       "thirdName": "عبدللە",
       "birthDate": "1990/04/04",
-      "gender": "Male",
+      "gender": "نێر",
       "avatar": "https://i.pravatar.cc/500"
     },
     {
@@ -17,7 +17,7 @@
       "secondName": "عبداللە",
       "thirdName": "کەریم",
       "birthDate": "1993/06/02",
-      "gender": "Female",
+      "gender": "کچ",
       "avatar": "https://i.pravatar.cc/500"
     },
     {
@@ -27,7 +27,7 @@
       "secondName": "قادر",
       "thirdName": "کەریم",
       "birthDate": "1989/08/17",
-      "gender": "Male",
+      "gender": "نێر",
       "avatar": "https://i.pravatar.cc/500"
     }
   ],
